@@ -1,0 +1,5 @@
+package torneo.dao;
+
+public class Torneo {
+
+}

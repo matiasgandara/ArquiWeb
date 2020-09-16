@@ -1,0 +1,7 @@
+package torneo.dao;
+
+@Entity
+public class Jugador {
+	
+
+}

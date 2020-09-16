@@ -1,0 +1,5 @@
+package torneo.servicios;
+
+public class ManagerEquipo {
+
+}

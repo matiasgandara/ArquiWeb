@@ -1,0 +1,11 @@
+package torneo.dao;
+
+@Entity
+public class Jugador {
+	
+	private int idJugador;
+	private String nombre;
+	private Equipo fichage;
+	private String posicion;
+
+}
